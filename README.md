@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 👋 I'm Thyago
 
-🎯 **BI Engineer | Data Analyst | ETL Specialist**
+🎯 **BI Engineer | Data Analyst | ETL **
 📍 São Paulo, Brazil
 
 ---
