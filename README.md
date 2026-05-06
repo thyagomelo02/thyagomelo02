@@ -179,8 +179,7 @@ Recently, I've been expanding my knowledge in **AI, LLMs, and data-driven automa
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: (add your link here)
-* 📧 Email: (add your email here)
+* 💼 LinkedIn: https://www.linkedin.com/in/thyagomsantos/
 
 ---
 
